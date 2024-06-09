@@ -6,14 +6,16 @@ Hello, I'm Kushal
 Objective
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-Skills
+## Projects
 
-| Skill                                         | Associated Project         |
+| Associated Project                                         |          |
 |-----------------------------------------------|----------------------------|
 | Utilized Wireshark to analyze HTTP/S and RDP traffic also did Malware traffic analysis using Wireshark | <a href="https://google.com">Detection Lab</a>|
-| Configured groups and performed basic administrative tasks with Microsoft Active Directory | <a href="https://google.com">Detection Lab</a>|
-| Used Snort IDP/IPS tool to detect malicious traffic and wrote custom rules | SOC Automation Lab|
-| Design a Phishing E-mail simulation.| SOC Automation Lab|
+| Configured groups and performed basic administrative tasks with Microsoft Active Directory
+| Used Snort IDP/IPS tool to detect malicious traffic and wrote custom rules
+| Design a Phishing E-mail simulation.
+|IAM - Implemented Zero Trust principles Created user accounts in AWS IAM Assigned appropriate permissions to each user group based on their specific roles and responsibilities.| <a href="https://docs.google.com/document/d/14IBII0aagfqLi5drRdgsJuM_TaplKaYZ7JcuAI7lKTk/edit?usp=drive_link">Document Link</a>|
+| Exploit Web Application.|<a href="https://docs.google.com/document/d/1m4BDil9KNoIwmhfbxyN5VqMuRFGWW53q2qV_aaeP4A0/edit?usp=drive_link">Detection Lab</a>|
 
 ## Tools
 
@@ -37,6 +39,3 @@ Skills
 <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certification-FF0000?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
     
-Projects
-Detection Lab
-SOC Automation Project
