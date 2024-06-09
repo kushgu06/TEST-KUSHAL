@@ -11,7 +11,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Associated Project                                         |          |
 |-----------------------------------------------|----------------------------|
 | Utilized Wireshark to analyze HTTP/S and RDP traffic also did Malware traffic analysis using Wireshark | <a href="https://google.com">Detection Lab</a>|
-| Configured groups and performed basic administrative tasks with Microsoft Active Directory
+| Configured groups and performed basic administrative tasks with Microsoft Active Directory| <a> - </a>|
 | Used Snort IDP/IPS tool to detect malicious traffic and wrote custom rules | <a href="https://docs.google.com/document/d/1ZjL2onDbsyajRTjAHj3-EmQLKcWz3Cf6l7chZa9c16E/edit?usp=drive_link">Document Link</a>|
 | Design a Phishing E-mail simulation.| <a href="https://drive.google.com/file/d/117ZFmDuDBAPWhTbVRQOdIT0rnwH0G6SQ/view?usp=drive_link">Document Link</a>|
 |IAM - Implemented Zero Trust principles Created user accounts in AWS IAM Assigned appropriate permissions to each user group based on their specific roles and responsibilities.| <a href="https://docs.google.com/document/d/14IBII0aagfqLi5drRdgsJuM_TaplKaYZ7JcuAI7lKTk/edit?usp=drive_link">Document Link</a>|
